@@ -1,0 +1,56 @@
+
+.penguins-card{
+    border: 0;
+}
+.penguins-footer-card{
+    border:0;
+    background-color: white;
+}
+
+.btn-custom {
+    background-color: #A4BC46;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 600;
+    width: 170px;
+    height: 60px;
+}
+.title-custom {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
+.card-text-custom{
+    font-style: normal;
+    font-weight: normal;
+    line-height: 26px;
+    color: #3E3E3E;
+    padding-top: 10px;
+}
+.btn-custom img{
+    width: 25px;
+}
+.header-btn img {
+    margin-right: 10px;
+}
+
+section h2 {
+    font-style: normal;
+    font-weight: bold;
+    padding: 20px;
+    color: #363958;
+}
+.image-box{
+    background: #F1F1F1;
+    border-radius: 20px;
+    height: 65%;
+}
+.about-item{
+   background: #F1F1F1;
+    border-radius: 30px;
+}
