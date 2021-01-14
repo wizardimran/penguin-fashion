@@ -45,6 +45,11 @@ section h2 {
     padding: 20px;
     color: #363958;
 }
+.dollar {
+    font-size: 35px;
+    color: #FAC55F;
+    font-weight: bold;
+}
 .image-box{
     background: #F1F1F1;
     border-radius: 20px;
