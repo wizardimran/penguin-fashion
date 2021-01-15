@@ -1,4 +1,10 @@
-
+header {
+    background-color:#FFFBF0;
+    padding-bottom: 25px;
+}
+.logo img{
+    height: 40px;
+}
 .penguins-card{
     border: 0;
 }
@@ -57,7 +63,7 @@ section h2 {
 }
 .about-item{
    background: #F1F1F1;
-    border-radius: 30px;
+   border-radius: 30px;
 }
 
 .end-area img{
@@ -69,4 +75,3 @@ section h2 {
 .end-section{
     border: none;
 }
-
